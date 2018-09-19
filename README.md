@@ -5,7 +5,7 @@ this colorscheme comes from https://github.com/Kuniwak/iceberg.icls as a base.
 
 ### General
 
-Generally faces python code by semantic roles, which defines system related token blue like, and class related red like, function calls yellow like, constants green like, and static data as default colors. It also mask elements that are not so important to a lower lightness. This makes easier to find the core logic in the code.
+Generally faces python code by semantic roles, which defines system related tokens blue like, and class related tokens red like, function calls yellow like, constants green like, and variables or ids as default colors. It also mask elements, code pieces like braces, brackets, parenthis, comments, operation signs, that are not so important, or frequently occur in the block, to  lower lightness. This makes easier to find the core logic in the code block.
 
 ![](shortcut1.png)
 
