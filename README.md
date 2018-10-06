@@ -13,7 +13,7 @@ Generally faces python code by semantic roles, which defines system related toke
 
 ![](shortcut3.png)
 
-![](shotcut5.png)
+![](shotcut6.png)
 
 ![](shotcut4.png)
 
