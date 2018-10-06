@@ -13,7 +13,9 @@ Generally faces python code by semantic roles, which defines system related toke
 
 ![](shortcut3.png)
 
-![](githublike.png)
+![](shortcut5.png)
+
+![](shortcut4.png)
 
 Installation
 ------------
