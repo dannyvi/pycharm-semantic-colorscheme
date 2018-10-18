@@ -1,21 +1,22 @@
-<scheme name="Iceberg" version="142" parent_scheme="Default">
+<scheme name="Iceberglike" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-09-19T11:01:11</property>
-    <property name="ide">PyCharmCore</property>
-    <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-09-19T11:01:16</property>
-    <property name="originalScheme">Iceberg</property>
+    <property name="created">2018-10-18T19:19:56</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2018.2.4.0.0</property>
+    <property name="modified">2018-10-18T19:20:02</property>
+    <property name="originalScheme">Iceberglike</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.99" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_NAME" value="Roboto Mono Thin for Powerline" />
     <option name="EDITOR_FONT_SIZE" value="11" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Osaka" />
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="11" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
@@ -46,20 +47,21 @@
     <option name="FILESTATUS_modifiedOutside" value="8aa4c8" />
     <option name="GUTTER_BACKGROUND" value="" />
     <option name="INDENT_GUIDE" value="222838" />
-    <option name="LINE_NUMBERS_COLOR" value="3c3f41" />
+    <option name="LINE_NUMBERS_COLOR" value="3f4142" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="3a4750" />
     <option name="QUESTION_HINT" value="89b8c1" />
+    <option name="READONLY_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="4d3f3c" />
-    <option name="RIGHT_MARGIN_COLOR" value="3c3f41" />
+    <option name="RIGHT_MARGIN_COLOR" value="3f4142" />
     <option name="SELECTION_BACKGROUND" value="1d2032" />
-    <option name="TEARLINE_COLOR" value="3c3f41" />
+    <option name="TEARLINE_COLOR" value="3f4142" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="31342a" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="384044" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="383545" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="322b2a" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="342a2b" />
-    <option name="VISUAL_INDENT_GUIDE" value="3c3f41" />
+    <option name="VISUAL_INDENT_GUIDE" value="38387e" />
     <option name="WHITESPACES" value="482f31" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3a4750" />
   </colors>
@@ -67,6 +69,12 @@
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="d57d7a" />
+      </value>
+    </option>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="cd0076" />
+        <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -460,8 +468,8 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d57d7a" />
-        <option name="EFFECT_COLOR" value="d57d7a" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="482a29" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -472,8 +480,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b5c2cb" />
-        <option name="BACKGROUND" value="282c40" />
+        <option name="FOREGROUND" value="31b" />
+        <option name="BACKGROUND" value="595792" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -506,9 +514,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c6c8d0" />
-        <option name="EFFECT_COLOR" value="c6c8d0" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="6b5563" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -943,7 +950,6 @@
     <option name="PY.PARAMETER">
       <value>
         <option name="FOREGROUND" value="7e8488" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.PARENTHS">
@@ -1060,7 +1066,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c6c8d0" />
+        <option name="FOREGROUND" value="a8afb4" />
         <option name="BACKGROUND" value="161820" />
       </value>
     </option>
@@ -1078,9 +1084,8 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="c6c8d0" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="BACKGROUND" value="363354" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
@@ -1091,8 +1096,8 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="dcab86" />
-        <option name="EFFECT_COLOR" value="dcab86" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="725945" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
